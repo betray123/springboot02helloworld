@@ -1,0 +1,7 @@
+server:
+  port:
+
+person:
+  name: zhaokun
+  age: 18
+  sex: true
